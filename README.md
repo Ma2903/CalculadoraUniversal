@@ -23,7 +23,7 @@ Este aplicativo oferece uma variedade de calculadoras e conversores, incluindo:
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/CalculadoraUniversal.git](https://github.com/seu-usuario/CalculadoraUniversal.git)
+    git clone https://github.com/Ma2903/CalculadoraUniversal.git
     ```
 2.  Instale as dependências:
     ```bash
